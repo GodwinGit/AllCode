@@ -14,6 +14,7 @@ public class BlackJackTest {
 		assertEquals(21, test.BlackJack(21,21));
 		assertEquals(0, test.BlackJack(-5,-5));
 		
+		
 	
 	}
 
